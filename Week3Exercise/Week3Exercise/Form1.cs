@@ -63,5 +63,123 @@ namespace Week3Exercise
 
             label2.Text = test[1].ToString();
         }
+
+        private void button3_Click(object sender, EventArgs e)
+        {
+            if (test[0] > test[1]) ;
+            {
+                label5.Text = test[0].ToString();
+            }
+            label5.Text = test[1].ToString();
+        }
+
+        private void label5_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button4_Click(object sender, EventArgs e)
+        {
+            if (test[0] == test[1])
+            {
+                label6.Text = "The two numbers are equal";
+            }
+            else label6.Text = "The two numbers are not equal";
+        }
+
+        private void label6_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+            int numberA;
+            int numberB;
+            if (test[0] > test[1])
+            {
+                numberA = test[0];
+                numberB = test[1];
+            }
+
+
+            else
+            {
+                numberA = test[1];
+                numberB = test[0];
+            }
+
+            int numberC = numberB;
+
+            int numberD = numberA % numberB;
+
+
+
+            int numberE;
+
+            do
+            {
+                numberE = numberC % numberD;
+
+                numberC = numberE;
+
+                numberE = numberD % numberC;
+
+                numberD = numberE;
+            }
+            while (numberE != 0);
+
+            if (numberC > numberD)
+            {
+                label7.Text = numberC.ToString();
+            }
+
+            else
+            {
+                label7.Text = numberD.ToString();
+            }
+        }
+
+        private void label7_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            int counter = test.Count();
+            label8.Text = counter.ToString();
+        }
+
+        private void label8_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button7_Click(object sender, EventArgs e)
+        {
+            int sum = test[0] + test[1];
+            label9.Text = sum.ToString();
+        }
+
+        private void label9_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void button8_Click(object sender, EventArgs e)
+        {
+            int counter = test.Count();
+            int sum = test[0] + test[1];
+
+            int result = sum / counter;
+
+            label10.Text = result.ToString();
+        }
+
+        private void label10_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
