@@ -1,0 +1,16 @@
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\bin\Debug\net10.0-windows\Week3Exercise.exe
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\bin\Debug\net10.0-windows\Week3Exercise.deps.json
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\bin\Debug\net10.0-windows\Week3Exercise.runtimeconfig.json
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\bin\Debug\net10.0-windows\Week3Exercise.dll
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\bin\Debug\net10.0-windows\Week3Exercise.pdb
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\obj\Debug\net10.0-windows\Week3Exercise.Form1.resources
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\obj\Debug\net10.0-windows\Week3Exercise.csproj.GenerateResource.cache
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\obj\Debug\net10.0-windows\Week3Exercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\obj\Debug\net10.0-windows\Week3Exercise.AssemblyInfoInputs.cache
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\obj\Debug\net10.0-windows\Week3Exercise.AssemblyInfo.cs
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\obj\Debug\net10.0-windows\Week3Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\obj\Debug\net10.0-windows\Week3Exercise.dll
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\obj\Debug\net10.0-windows\refint\Week3Exercise.dll
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\obj\Debug\net10.0-windows\Week3Exercise.pdb
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\obj\Debug\net10.0-windows\Week3Exercise.genruntimeconfig.cache
+C:\Users\Korey\source\repos\Week3Exercise\Week3Exercise\obj\Debug\net10.0-windows\ref\Week3Exercise.dll
